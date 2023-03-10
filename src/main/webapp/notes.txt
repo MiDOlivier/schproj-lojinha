@@ -1,0 +1,7 @@
+>Cookie
+Browser-side
+Long-life
+
+>Session
+Server-side
+Short-life
